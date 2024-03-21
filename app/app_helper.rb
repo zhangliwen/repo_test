@@ -1,0 +1,2 @@
+def AppHelper
+end
